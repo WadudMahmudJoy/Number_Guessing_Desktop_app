@@ -1,2 +1,4 @@
-tkinter
-random2
+# requirements.txt for Number Guessing Game
+# Tkinter is included with Python standard library
+# random2 is not needed, using built-in random
+Pillow
